@@ -11,17 +11,17 @@ Here is the Swirly official page [Demo](http://www.itechflare.com/swirly "Swirly
 
 Features
 -----------
-*No images, no external CSS
-*Get dynamic symmetrical motions with cool patterns that inspired by: Lissajous patterns in Oscilloscope
-*Require jQuery only
-*Highly configurable
-*Resolution independent
-*Uses "requestAnimationFrame" animations rather than "setInterval". The reasons:.
-**The browser can optimize it, so animations will be smoother
-**Animations in inactive tabs will stop, allowing the CPU to chill
-**More battery-friendly
-*Works in all major browsers, including IE6
-*GPLv2 License
+* No images, no external CSS
+* Get dynamic symmetrical motions with cool patterns that inspired by: Lissajous patterns in Oscilloscope
+* Require jQuery only
+* Highly configurable
+* Resolution independent
+* Uses "requestAnimationFrame" animations rather than "setInterval". The reasons:.
+ * The browser can optimize it, so animations will be smoother
+ * Animations in inactive tabs will stop, allowing the CPU to chill
+ * More battery-friendly
+* Works in all major browsers, including IE6
+* GPLv2 License
 
 
 After imcluding jQuery and Swirly java scripts int your website.
