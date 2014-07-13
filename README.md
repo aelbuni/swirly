@@ -12,7 +12,7 @@ Here is the Swirly official page [Demo](http://www.itechflare.com/swirly "Swirly
 Features
 -----------
 * No images, no external CSS
-* Get dynamic symmetrical motions with cool patterns that inspired by: Lissajous patterns in Oscilloscope
+* Get dynamic symmetrical motions with cool patterns that inspired by: [Lissajous](https://www.youtube.com/watch?v=t6nGiBzGLD8 "Oscilloscope") patterns in Oscilloscope
 * Require jQuery only
 * Highly configurable
 * Resolution independent
