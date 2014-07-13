@@ -1,0 +1,41 @@
+{
+    "name": "swirly",
+    "title": "jQuery zero byte loading effect",
+    "description": "jQuery zero byte smooth loading motion effect, with almost an infinite dynamic patterns. Highly configurable and it is inspired by Lissajous patterns",
+    "keywords": [
+        "loading",
+        "waiting",
+		"swirly",
+		"configurable",
+		"smooth",
+		"Lissajous",
+		"patterns",
+		"zero",
+		"byte"
+    ],
+    "version": "1.0.1",
+    "author": {
+        "name": "Abdulrhman Elbuni",
+        "url": "http://www.itechflare.com/swirly"
+    },
+    "maintainers": [
+        {
+            "name": "Abdulrhman Elbuni",
+            "email": "aelbuni@itechflare.com",
+            "url": "http://www.itechflare.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+        }
+    ],
+    "bugs": "https://github.com/aelbuni/swirly/issues",
+    "homepage": "http://www.itechflare.com/swirly",
+    "docs": "http://www.itechflare.com/swirly",
+    "download": "http://www.itechflare.com/swirly",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
