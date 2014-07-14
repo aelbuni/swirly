@@ -27,7 +27,7 @@
 				for(var i=0;i<2;i++)
 				{
 					color = swirly.config.colors[i%colorCount];
-					spansHTML = spansHTML+"<span style='color:"+color+"' class='swirly-circle swirly-"+mainNode.attr("id")+"-"+i+"'>"+swirly.config.text+"</span>";
+					spansHTML = spansHTML+"<span style='position:relative;left:0px;top:0px;color:"+color+"' class='swirly-circle swirly-"+mainNode.attr("id")+"-"+i+"'>"+swirly.config.text+"</span>";
 				}
 				
 				mainNode.html(spansHTML);
