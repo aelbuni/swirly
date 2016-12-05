@@ -1,7 +1,7 @@
 Loading Animation Project - Swirly
 ======
 
-Zero byte graciful and dynamic loading/waiting motion generator for HTML by jQuery.
+Graciful and dynamic loading/waiting motion generator for HTML by jQuery.
 Inspired by an engineer from an engineer, check the following link to know how this plugin emulating the infinite type of motions:
 Check [Lissajous](https://www.youtube.com/watch?v=t6nGiBzGLD8 "Oscilloscope") patterns in Oscilloscope
 
